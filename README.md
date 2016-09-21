@@ -2,7 +2,7 @@
 
 A VR experience about experiencing VR in VR. For PC + HTC Vive, created in 36 hours at the September 2016 Seattle VR Hackathon.
 
-![Alt text](relative/path/to/img.jpg?raw=true "Image")
+![Screenshot](bun.png "Image")
 
 Controls:
 ----------------
