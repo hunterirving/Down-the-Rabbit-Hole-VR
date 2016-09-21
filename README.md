@@ -32,3 +32,7 @@ Credits:
   
 ####Some assets provided by:  
   The Unity Asset Store
+
+If you're looking for a compiled executable of the game:
+----------------
+  *[Look no futher.](https://drive.google.com/file/d/0B1fOxfGxRccTQXdMSWl3MmE2ckU/view?usp=sharing)*
