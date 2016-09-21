@@ -6,9 +6,9 @@ A VR experience about experiencing VR in VR. For PC + HTC Vive, created in 36 ho
 
 Controls:
 ----------------
-Pick up objects using the trigger on either Vive controller.
-Grab VR headsets and pull them towards your eyes to put them on and go one layer deeper.
-Bring the ring/donut of either Vive controller towards your eyes and pull away to remove a headset and go one layer higher.
+* Pick up objects using the trigger on either Vive controller.  
+* Grab VR headsets and pull them towards your eyes to put them on and go one layer deeper.  
+* Bring the ring/donut of either Vive controller towards your eyes and pull away to remove a headset and go one layer higher.  
 
 Credits:
 ----------------
