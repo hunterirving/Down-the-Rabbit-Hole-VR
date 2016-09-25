@@ -13,13 +13,13 @@ Controls:
 Credits:
 ----------------
 ####Dev Team:  
-  Joey,  
-  Andy,  
-  Masashi,  
-  Jeff,  
-  Jim,  
-  Hunter,  
-  David  
+  Joey Koblitz,  
+  Anindya Dey,  
+  Masashi Schafer,  
+  Jeff Atwood,  
+  Jim Irving,  
+  Hunter Irving,  
+  David Lee  
   
 ####With guest appearances by:  
   Jake from PAX
