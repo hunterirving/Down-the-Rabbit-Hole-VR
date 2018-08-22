@@ -10,9 +10,14 @@ Controls:
 * Grab VR headsets and pull them towards your eyes to put them on and go one layer deeper.  
 * Bring the ring/donut of either Vive controller towards your eyes and pull away to remove a headset and go one layer higher.  
 
+Awards:
+----------------
+* First Place, Best Visual Design
+* Second Place, Community Choice Category
+
 Credits:
 ----------------
-####Dev Team:  
+#### Dev Team:  
   Joey Koblitz,  
   Anindya Dey,  
   Masashi Schafer,  
@@ -21,16 +26,16 @@ Credits:
   Hunter Irving,  
   David Lee  
   
-####With guest appearances by:  
+#### With guest appearances by:  
   Jake from PAX
   
-####Musical performances by:  
+#### Musical performances by:  
   Nujabes,  
   Erik Satie,  
   Sergei Mantis,  
   And Others  
   
-####Some assets provided by:  
+#### Some assets provided by:  
   The Unity Asset Store
 
 If you're looking for a compiled executable of the game:
