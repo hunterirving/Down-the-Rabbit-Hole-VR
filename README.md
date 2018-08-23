@@ -46,3 +46,5 @@ See Also: An Exclusive DEVELOPER COMMENTARY VIDEO
 ----------------
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=y7ogFl4IaFA&feature=youtu.be&t=1596
 " target="_blank"><img src="http://img.youtube.com/vi/y7ogFl4IaFA/0.jpg" width="240" height="180" border="10" /></a>
+
+(Click through to YouTube)
