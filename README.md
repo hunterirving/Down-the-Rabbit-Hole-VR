@@ -1,6 +1,6 @@
 # Down the Rabbit Hole VR
 
-A VR experience about experiencing VR in VR.
+A VR experience about experiencing VR ___in VR___.
 
 For PC + HTC Vive, created in 36 hours at the September 2016 Seattle VR Hackathon.
 
